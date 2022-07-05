@@ -23,4 +23,7 @@ Hey I'm [Mercer@Zhihu](https://www.zhihu.com/people/daleige).
   - [Investor Class Auction Allotments](https://home.treasury.gov/data/investor-class-auction-allotments)：美债拍卖的总结数据，见专栏文章[【数据拾遗：美债拍卖数据2】](https://zhuanlan.zhihu.com/p/516037009)
   - [Daily Treasury Statement](https://fiscal.treasury.gov/reports-statements/dts/index.html)：包含最详尽的美国财政收支高频数据
   - [Monthly Treasury Statement](https://fiscal.treasury.gov/reports-statements/mts/#:~:text=The%20Monthly%20Treasury%20Statement%20summarizes,Budget%20of%20the%20U.S.%20Government.&text=The%20MTS%20presents%20a%20summary,Surplus%20or%20deficit)：DTS的月度总结
+  
+- 利率数据（`rates-watch`）
   - [Interest Rate Statistics](https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics)：官方的利率曲线数据，包含名义国债收益率曲线，真实收益率（五年以上），国库券利率等，见专栏文章[【数据拾遗：美债官方利率数据】](https://www.zhihu.com/column/c_1509153964662263808)
+  - [Repo market reference rates](https://www.newyorkfed.org/markets/data-hub)
